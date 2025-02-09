@@ -1,5 +1,7 @@
 # Car Help Assistance
 
+To make the project to work, You will need to add google map api and integrate your firebase with the project!!!
+
 Introduction
 
 Imagine you are driving on the highway, and your car suddenly breaks down or you are end up with fuel. You're miles away from the nearest town and you have no help service. What do you do?
@@ -40,7 +42,7 @@ Customer dashboard:
 
 4.Customers should be able to find any nearby help according to location.
 
-5.The customer should be able to call/ SOS the helper via available information.
+5.The customer should be able to call the helper via available information.
 
 6.The customer can see the location and arrival time of the helper.
 
@@ -50,13 +52,10 @@ Helper dashboard:
 
 2.Helpers should be able to add their information in their profile including name/contact number/location/specialty/ experience/vehicle number in case of vehicle help.
 
-3.The helper should receive SOS/ call/ message sent by the customer.
+3.The helper should receive call/ message sent by the customer.
 
 4.The helper can see the location of the customer by accessing GPS in the application.
 
 5.The helper can see the information of his/her approached customer.
 
 6.The helper can update the task status once he/she helped the customer.
-
-
-<img src="https://github.com/user-attachments/assets/0001e614-41dc-49fc-9f2e-17a1a1315ff6" width="300dp">  <img src="https://github.com/user-attachments/assets/8ea4c179-902d-49d0-a681-572db38c5d47" width="300dp"> <img src="https://github.com/user-attachments/assets/f9b5fb73-18a6-4647-b79e-5dd0267e555e" width="300dp"><img src="https://github.com/user-attachments/assets/5c7b70d6-6b27-4881-9d89-f3e14a2b3672" width="300dp">  <img src="https://github.com/user-attachments/assets/5062dcc3-accc-431e-ba09-761c8b5e5876" width="300dp"> <img src="https://github.com/user-attachments/assets/cda7252d-bc99-4121-9a38-52d2d8356085" width="300dp"><img src="https://github.com/user-attachments/assets/5ca1179f-1cae-4647-8ba0-34712deda470" width="300dp">
