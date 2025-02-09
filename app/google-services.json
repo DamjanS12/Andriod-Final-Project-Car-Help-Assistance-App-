@@ -1,14 +1,25 @@
 {
   "project_info": {
+<<<<<<< HEAD
     "project_number": "140662454438",
     "firebase_url": "https://on-road-help-assistance-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "on-road-help-assistance",
     "storage_bucket": "on-road-help-assistance.appspot.com"
+=======
+    "project_number": "695455802459",
+    "firebase_url": "https://car-help-assistance-bee81-default-rtdb.firebaseio.com",
+    "project_id": "car-help-assistance-bee81",
+    "storage_bucket": "car-help-assistance-bee81.firebasestorage.app"
+>>>>>>> 677a3cc (final project)
   },
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:140662454438:android:01c492479bdacf64691c67",
+=======
+        "mobilesdk_app_id": "1:695455802459:android:5248c20b6edb7741804b7e",
+>>>>>>> 677a3cc (final project)
         "android_client_info": {
           "package_name": "com.example.helpassistance"
         }
@@ -16,7 +27,11 @@
       "oauth_client": [],
       "api_key": [
         {
+<<<<<<< HEAD
           "current_key": "AIzaSyCJukXeVGNopNeN7iCYPparIXOo_mXGW9o"
+=======
+          "current_key": "AIzaSyAzvCR4oLtpP-VNatHztL4j_sZiei5e0v0"
+>>>>>>> 677a3cc (final project)
         }
       ],
       "services": {
